@@ -25,7 +25,7 @@ const LoginPage = () => {
         backgroundColor={theme.palette.background.alt}
       >
         <Typography fontWeight="500" variant="h5" sx={{ mb: "1.5rem" }}>
-          Default user & password: wasd@wasd.com / wasd
+          For a quick look, the default user & password are: wasd@wasd.com / wasd
         </Typography>
         <Form />
       </Box>
